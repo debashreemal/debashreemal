@@ -47,7 +47,7 @@
 
 ## PROJECTS
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="24">
+<table border="0" cellpadding="0" cellspacing="25">
 <tr>
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
  
