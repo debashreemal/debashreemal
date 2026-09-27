@@ -93,6 +93,19 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 <br/><br/>
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
+
+### QUIRKLINK
+A fast, minimal URL shortener built from scratch to deployment - full-stack JS with server-side API routes, a NoSQL database, and serverless deployment, no separate backend required.
+<br/><br/>
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+<br/><br/>
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://quirklink.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/QuirkLink)
+
+</td>
 </td>
 
 </tr>
