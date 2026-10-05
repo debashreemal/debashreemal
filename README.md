@@ -16,7 +16,7 @@
 <tr>
 <td align="center" style="border:1px solid #30363d; border-radius:8px; padding:16px; width:33%">
 
-**Frontend**
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts&perline=3&theme=dark" />
 
@@ -24,7 +24,7 @@
 <td width="16"></td>
 <td align="center" valign="top" style="border:1px solid #30363d; border-radius:8px; padding:16px; width:33%">
 
-**Backend**
+**BACKEND**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,supabase,postgresql,mongodb&perline=3&theme=dark" />
 
@@ -32,7 +32,7 @@
 <td width="16"></td>
 <td align="center" valign="top" style="border:1px solid #30363d; border-radius:8px; padding:16px; width:33%">
 
-**Tools**
+**TOOLS**
 
 <img src="https://skillicons.dev/icons?i=androidstudio,git,vercel&perline=3&theme=dark" />
 
